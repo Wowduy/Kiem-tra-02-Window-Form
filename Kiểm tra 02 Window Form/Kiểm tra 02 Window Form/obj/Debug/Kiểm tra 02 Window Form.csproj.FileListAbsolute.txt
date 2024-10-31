@@ -1,0 +1,11 @@
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\bin\Debug\Kiểm tra 02 Window Form.exe.config
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\bin\Debug\Kiểm tra 02 Window Form.exe
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\bin\Debug\Kiểm tra 02 Window Form.pdb
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm_tra_02_Window_Form.Form1.resources
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm_tra_02_Window_Form.Properties.Resources.resources
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.csproj.GenerateResource.cache
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.exe
+C:\Users\HClaptop\source\repos\Kiểm tra 02 Window Form\Kiểm tra 02 Window Form\obj\Debug\Kiểm tra 02 Window Form.pdb
